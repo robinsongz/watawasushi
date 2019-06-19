@@ -1,0 +1,26 @@
+.about {
+    height: 100vh;
+    margin-top: 30px;
+}
+
+.about-title {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+.about-image {
+    height: 100%;
+    width: 100%;
+}
+
+.about-image-bottom {
+    height: 50%;
+    width: 100%;
+}
+
+.bottom-half {
+    margin-top: 50px;
+}
