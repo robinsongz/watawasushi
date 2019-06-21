@@ -1,0 +1,40 @@
+
+.menu {
+    height: 100vh;
+}
+
+.menu-title {
+    text-align: center;
+    font-size: 80px;
+    margin: 30px;
+}
+
+.menu-item {
+    position: relative;
+    transition: all .2s ease-in-out;
+    margin: 10px;
+    height: 70%;
+    width: 100%;
+}
+
+.menu-item:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.menu-item-title {
+    text-align: center;
+    font-size: xx-large;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.menu-item-image {
+    height: 100%;
+    width: 100%;
+}

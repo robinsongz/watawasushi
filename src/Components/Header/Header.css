@@ -1,4 +1,4 @@
-
-.header-image {
-    max-height: 860px;
+.header {
+    height: 90vh;
+    background: url(../../Images/sushi6.jpg) no-repeat center center fixed;
 }

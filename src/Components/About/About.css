@@ -1,6 +1,9 @@
 .about {
     height: 100vh;
-    margin-top: 30px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .about-title {
@@ -10,6 +13,9 @@
     margin-bottom: 40px;
 }
 
+.bottom-half {
+    margin-top: 50px;
+}
 
 .about-image {
     height: 100%;
@@ -19,8 +25,4 @@
 .about-image-bottom {
     height: 50%;
     width: 100%;
-}
-
-.bottom-half {
-    margin-top: 50px;
 }
