@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/watawasushi/precache-manifest.11d564c8138a152f4dc10855bd55b7bd.js"
+  "/watawasushi/precache-manifest.a3159ec3011e5ce6a527f30d9e30b587.js"
 );
 
 self.addEventListener('message', (event) => {
