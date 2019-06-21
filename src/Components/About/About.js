@@ -6,7 +6,7 @@ class About extends Component {
     render() {
         return(
           <div className="about">
-            <Container>
+            <Container className="container">
               <Row className="top-half">
                 <Col sm={8}>
                   <img className="about-image" src={require('../../Images/sushi2.jpg')} alt="sushi2"/>

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
-import MenuTitle from './Components/OrderOnline/MenuTitle';
+import Breakpoint from './Components/Breakpoint/Breakpoint';
 import Menu from './Components/Menu/Menu';
 class App extends Component {
     render() {
@@ -9,7 +9,7 @@ class App extends Component {
           <div>
             <Header />
             <About />
-            <MenuTitle />
+            <Breakpoint />
             <Menu />
           </div>
         )

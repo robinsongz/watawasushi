@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import App from './App';
 import WebNavbar from './Components/Navbar/WebNavbar';
+import Footer from './Components/Footer/Footer';
 
 
 const Root = () => {
@@ -13,7 +14,7 @@ const Root = () => {
         <Router>
             <WebNavbar />
             <Route exact path='/' component={App} />
-            
+            <Footer />
         </Router>
     )
 }

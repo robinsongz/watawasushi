@@ -1,16 +1,19 @@
 .about {
     height: 100vh;
-    margin-top: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    background-color: white;
 }
-
+.container {
+    margin-top: 100px;
+}
 .about-title {
     color: black;
     font-size: 40px;
     font-weight: bold;
-    margin-bottom: 40px;
+    margin: 40px;
 }
 
 .bottom-half {
@@ -20,6 +23,7 @@
 .about-image {
     height: 100%;
     width: 100%;
+    margin-top: 30px;
 }
 
 .about-image-bottom {

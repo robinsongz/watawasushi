@@ -1,0 +1,6 @@
+.order-online {
+    height: 50vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(../../Images/sushi9.jpg) 
+    no-repeat center center fixed;
+    
+}

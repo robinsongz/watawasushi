@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-import './MenuTitle.css'
-import { Link } from 'react-router-dom';
-import { Container, Row, Col} from 'react-bootstrap';
+import './Breakpoint.css'
 
 class MenuTitle extends Component {
     render() {

@@ -13,13 +13,26 @@
     position: relative;
     transition: all .2s ease-in-out;
     margin: 10px;
-    height: 70%;
+    height: 90%;
     width: 100%;
 }
 
 .menu-item:hover {
     transform: scale(1.1);
     cursor: pointer;
+   
+}
+
+.menu-item:hover .menu-item-title {
+    opacity: 1;
+}
+
+.menu-item:hover img {
+  -webkit-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -ms-filter: blur(4px);
+  -o-filter: blur(4px);
+  filter: blur(4px);
 }
 
 .menu-item-title {
@@ -32,9 +45,14 @@
     color: white;
     font-weight: bold;
     text-transform: uppercase;
+    opacity: 0;
 }
 
 .menu-item-image {
     height: 100%;
     width: 100%;
+}
+
+.col {
+    height: 350px;
 }
