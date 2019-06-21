@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c7b4249844ad92a2d2c1abfa205fd51",
+    "revision": "84f1ee3fb21d43222785ec4b991ccc4c",
     "url": "/watawasushi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/watawasushi/static/css/2.57797527.chunk.css"
   },
   {
-    "revision": "b5704f1dbec789d77b75",
+    "revision": "206dc9a31a46f13bf636",
     "url": "/watawasushi/static/css/main.936f0e7a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/watawasushi/static/js/2.cb6e5391.chunk.js"
   },
   {
-    "revision": "b5704f1dbec789d77b75",
-    "url": "/watawasushi/static/js/main.3d1903ac.chunk.js"
+    "revision": "206dc9a31a46f13bf636",
+    "url": "/watawasushi/static/js/main.30c69591.chunk.js"
   },
   {
     "revision": "ab85266e51959b8dfc0a",
