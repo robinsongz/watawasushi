@@ -11,7 +11,7 @@ import Footer from './Components/Footer/Footer';
 
 const Root = () => {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <WebNavbar />
             <Route exact path='/' component={App} />
             <Footer />
